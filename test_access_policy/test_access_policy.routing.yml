@@ -1,7 +1,0 @@
-test_access_policy.example:
-  path: '/test-access-policy/example'
-  defaults:
-    _title: 'Example'
-    _controller: '\Drupal\test_access_policy\Controller\TestAccessPolicyController'
-  requirements:
-    _permission: 'access content'
